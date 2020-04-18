@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhouZ2N.github.io/</id>
-    <title>ZZN&apos;s Blog</title>
-    <updated>2020-04-18T03:46:39.562Z</updated>
+    <title>ZZN&apos;s</title>
+    <updated>2020-04-18T04:14:52.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhouZ2N.github.io/"/>
     <link rel="self" href="https://zhouZ2N.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>“和六律以聪耳，正七体以役心。”</subtitle>
     <logo>https://zhouZ2N.github.io/images/avatar.png</logo>
     <icon>https://zhouZ2N.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ZZN&apos;s Blog</rights>
+    <rights>All rights reserved 2020, ZZN&apos;s</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://zhouZ2N.github.io/post/hello-gridea/</id>
